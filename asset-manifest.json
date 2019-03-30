@@ -1,13 +1,13 @@
 {
-  "main.css": "/Seasons/static/css/main.e2fa720c.chunk.css",
-  "main.js": "/Seasons/static/js/main.bd321aae.chunk.js",
-  "main.js.map": "/Seasons/static/js/main.bd321aae.chunk.js.map",
-  "runtime~main.js": "/Seasons/static/js/runtime~main.fd775556.js",
-  "runtime~main.js.map": "/Seasons/static/js/runtime~main.fd775556.js.map",
-  "static/js/2.11b5b539.chunk.js": "/Seasons/static/js/2.11b5b539.chunk.js",
-  "static/js/2.11b5b539.chunk.js.map": "/Seasons/static/js/2.11b5b539.chunk.js.map",
-  "index.html": "/Seasons/index.html",
-  "precache-manifest.1c7907a4146dc86d769ccaf82696c7b0.js": "/Seasons/precache-manifest.1c7907a4146dc86d769ccaf82696c7b0.js",
-  "service-worker.js": "/Seasons/service-worker.js",
-  "static/css/main.e2fa720c.chunk.css.map": "/Seasons/static/css/main.e2fa720c.chunk.css.map"
+  "main.css": "/Forcast/static/css/main.e6f32afa.chunk.css",
+  "main.js": "/Forcast/static/js/main.76542d52.chunk.js",
+  "main.js.map": "/Forcast/static/js/main.76542d52.chunk.js.map",
+  "runtime~main.js": "/Forcast/static/js/runtime~main.e73f2a00.js",
+  "runtime~main.js.map": "/Forcast/static/js/runtime~main.e73f2a00.js.map",
+  "static/js/2.adced22f.chunk.js": "/Forcast/static/js/2.adced22f.chunk.js",
+  "static/js/2.adced22f.chunk.js.map": "/Forcast/static/js/2.adced22f.chunk.js.map",
+  "index.html": "/Forcast/index.html",
+  "precache-manifest.460adf8a8b444185fa89d13125070500.js": "/Forcast/precache-manifest.460adf8a8b444185fa89d13125070500.js",
+  "service-worker.js": "/Forcast/service-worker.js",
+  "static/css/main.e6f32afa.chunk.css.map": "/Forcast/static/css/main.e6f32afa.chunk.css.map"
 }
